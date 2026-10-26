@@ -1,6 +1,7 @@
 # The manifest for docker-build-agent. Schema: https://github.com/linuxserver-playground/builder/blob/main/schemas/image.schema.json
 schema: 1
 name: build-agent
+kind: tool
 
 summary: build-agent container image.
 
