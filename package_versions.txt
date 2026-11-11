@@ -34,11 +34,11 @@ coreutils-sha512sum                                                           9.
 curl                                                                          8.23.0-r0                              apk                            
 cyphar.com/go-pathrs                                                          v0.2.6                                 go-module                      
 dario.cat/mergo                                                               v1.0.2                                 go-module     (+1 duplicate)   
-docker                                                                        29.9.3-r0                              apk                            
-docker-cli                                                                    29.9.3-r0                              apk                            
+docker                                                                        29.9.3-r1                              apk                            
+docker-cli                                                                    29.9.3-r1                              apk                            
 docker-cli-buildx                                                             0.38.2-r1                              apk                            
 docker-cli-compose                                                            5.7.0-r0                               apk                            
-docker-engine                                                                 29.9.3-r0                              apk                            
+docker-engine                                                                 29.9.3-r1                              apk                            
 e2fsprogs                                                                     1.47.4-r0                              apk                            
 e2fsprogs-extra                                                               1.47.4-r0                              apk                            
 e2fsprogs-libs                                                                1.47.4-r0                              apk                            
@@ -51,8 +51,8 @@ freetype                                                                      2.
 fuse3-libs                                                                    3.18.3-r0                              apk                            
 getrandom                                                                     0.3.4                                  rust-crate                     
 giflib                                                                        6.1.3-r0                               apk                            
-git                                                                           2.56.0-r0                              apk                            
-git-init-template                                                             2.56.0-r0                              apk                            
+git                                                                           2.56.1-r0                              apk                            
+git-init-template                                                             2.56.1-r0                              apk                            
 github.com/Azure/azure-sdk-for-go/sdk/azcore                                  v1.21.1                                go-module                      
 github.com/Azure/azure-sdk-for-go/sdk/internal                                v1.12.0                                go-module                      
 github.com/Azure/azure-sdk-for-go/sdk/storage/azblob                          v1.5.0                                 go-module                      
@@ -450,8 +450,7 @@ golang.org/x/sync                                                             v0
 golang.org/x/sync                                                             v0.24.0                                go-module     (+1 duplicate)   
 golang.org/x/sys                                                              v0.46.0                                go-module                      
 golang.org/x/sys                                                              v0.48.0                                go-module     (+3 duplicates)  
-golang.org/x/sys                                                              v0.49.0                                go-module     (+1 duplicate)   
-golang.org/x/sys                                                              v0.49.1-0.20261022125458-f5cb0306ac0e  go-module                      
+golang.org/x/sys                                                              v0.49.1-0.20261022125458-f5cb0306ac0e  go-module     (+2 duplicates)  
 golang.org/x/term                                                             v0.45.0                                go-module                      
 golang.org/x/term                                                             v0.46.0                                go-module                      
 golang.org/x/term                                                             v0.47.0                                go-module                      
@@ -494,7 +493,7 @@ libbsd                                                                        0.
 libbz2                                                                        1.0.8-r6                               apk                            
 libc                                                                          0.2.183                                rust-crate                     
 libcom_err                                                                    1.47.4-r0                              apk                            
-libcrypto3                                                                    3.5.9-r0                               apk                            
+libcrypto3                                                                    3.5.9-r1                               apk                            
 libcurl                                                                       8.23.0-r0                              apk                            
 libeconf                                                                      0.8.4-r0                               apk                            
 libedit                                                                       20260512.3.1-r0                        apk                            
@@ -513,7 +512,7 @@ libpng                                                                        1.
 libproc2                                                                      4.0.7-r2                               apk                            
 libpsl                                                                        0.21.5-r3                              apk                            
 libseccomp                                                                    2.6.1-r0                               apk                            
-libssl3                                                                       3.5.9-r0                               apk                            
+libssl3                                                                       3.5.9-r1                               apk                            
 libtasn1                                                                      4.21.0-r0                              apk                            
 libunistring                                                                  1.4.2-r0                               apk                            
 libuuid                                                                       2.42.4-r3                              apk                            
@@ -525,7 +524,7 @@ libxext                                                                       1.
 libxi                                                                         1.8.4-r0                               apk                            
 libxml2                                                                       2.13.9-r2                              apk                            
 libxrender                                                                    0.9.13-r0                              apk                            
-libxslt                                                                       1.1.43-r3                              apk                            
+libxslt                                                                       1.1.43-r4                              apk                            
 libxtables                                                                    1.8.13-r0                              apk                            
 libxtst                                                                       1.2.6-r0                               apk                            
 linux-pam                                                                     1.7.1-r4                               apk                            
@@ -551,7 +550,7 @@ openssh-server-pam                                                            10
 openssh-sftp-server                                                           10.6_p2-r0                             apk                            
 p11-kit                                                                       0.26.2-r1                              apk                            
 p11-kit-trust                                                                 0.26.2-r1                              apk                            
-pandoc-cli                                                                    3.12.1-r0                              apk                            
+pandoc-cli                                                                    3.13-r0                                apk                            
 pathrs                                                                        0.2.6                                  rust-crate                     
 pcre2                                                                         10.49-r0                               apk                            
 ppv-lite86                                                                    0.2.21                                 rust-crate                     
